@@ -4,3 +4,38 @@
   padding: 10px;
   text-align: center;
 }
+
+.cont {
+  padding: 10px;
+}
+
+.btn_salvar {
+  margin: auto
+}
+
+.centralize {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.input-raca .custom-select {
+  width: 140px;
+}
+
+.paddingPattern {
+  padding: 20px 0 20px 0;
+}
+
+.photo-descricao {
+  z-index: 999;
+  margin-top: 10px;
+  font-size: 35px;
+}
+
+.input-dog {
+  display: flex;
+}
+
+.input-dogtxt {
+  width: 210px
+}
